@@ -1,8 +1,5 @@
 # game-devloping-with-java
 <h1 align="center" id="title">squid game</h1>
-
-<p align="center"><img src="https://images.app.goo.gl/gdPYsTdDEzZFQXCK9" alt="project-image"></p>
-
 <p id="description">this project have been developed by java using GUI (JavaFX). It is inspired by the famous show squid game stage number 4 where the player have to guess if the balls inside his teammate are even or odd if he/she got 5 answers right he/she win the price but if it reached 5 wrong answer the player will be eliminated .</p>
 
 <h2>🚀 Demo</h2>
